@@ -1,4 +1,14 @@
-Harvard Softworks HS/FORTH makes full use of extended memory, and comes with optimizer, sound, graphics, and 80x87 libraries. Has an odd, but efficient, use of memory and dictionary structure.
+Harvard Softworks HS/FORTH makes full use of extended memory, and comes with optimizer, sound, graphics, and 80x87 libraries. 
+Has an odd, but efficient, use of memory and dictionary structure.
+
+The creator of Hs/Forth, the late Jim Kalihan never made the jump to the internet with this product.
+Jim had his own ideas about naming Forth words that were different than many other Forths at the time.
+I have created a repository of files that move Hs/Forth closer to ANS compliance, but not completely.
+However it does fix some of the big differences and also provides some library code that I used in 
+the 1990s to create applications.  The new HSF2012.EXE console provides some features that I liked from
+FPC by Tom Zimmer. (color coded WORDS, command line input and more)
+
+https://github.com/bfox9900/HsF2012
 
 If you find a link with more info about HS/Forth, please leave it here.
 
