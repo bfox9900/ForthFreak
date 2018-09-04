@@ -1,5 +1,9 @@
-Harvard Softworks HS/FORTH makes full use of extended memory, and comes with optimizer, sound, graphics, and 80x87 libraries. Has an odd, but efficient, use of memory and dictionary structure.
+Harvard Softworks HS/FORTH makes full use of extended memory, and comes with optimizer, sound, graphics, and 80x87 libraries. 
+Has an odd, but efficient, use of memory and dictionary structure mapped onto the Intel segmented memory model.
 
 If you find a link with more info about HS/Forth, please leave it here.
+
+Code to bring HS/FORTH a little closer to modern naming conventions with reformatted source code files is here:
+https://github.com/bfox9900/HsF2012
 
 ForthSystems
